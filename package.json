@@ -1,0 +1,14 @@
+{
+  "name": "bases-node",
+  "version": "2.0.0",
+  "description": "Aplicación de línea de comando\"\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\"Ap\u001b[3~\u001b[2~\u001b[5~licacion de línea de comando\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Jorge Andrés\"",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.1"
+  }
+}
